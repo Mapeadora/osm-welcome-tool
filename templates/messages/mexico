@@ -1,0 +1,34 @@
+---
+name: Default
+title: Bienvenidx a OpenStreetMap
+---
+
+Hola {{ mapper.displayName }},
+
+¡Felicitaciones por tu primera contribución a OpenStreetMap en México! Ya eres parte de la comunidad!!
+
+Tus ediciones ya están en la base de datos en el momento en que guardes, aunque algunos mapas tardan un poco en actualizarse.
+
+Aquí te comparto algunos recursos útiles:
+
+* [Wiki de OSM](https://wiki.openstreetmap.org/wiki/ES:P%C3%A1gina_principal) — toda la información que necesitas, en español.
+* [Guía para mapear en México](https://wiki.openstreetmap.org/wiki/Mexico) — convenciones específicas del país.
+* [LearnOSM](https://learnosm.org/es/) — guía general para empezar, con iD y JOSM.
+* [Características del mapa](https://wiki.openstreetmap.org/wiki/ES:Objetos_del_mapa) — todo lo que se puede mapear (consulta junto con la guía MX).
+* [ResultMaps](https://resultmaps.neis-one.org/oooc?zoom=12&lat=4.67719&lon=-74.06536&layers=BTFFFFFT&contributors=TTTTTT#6/23.306/-100.307) — mira quién mapea cerca de ti.
+
+¿Tienes dudas? Únete a la comunidad:
+
+* [Telegram OSM México](https://telegram.me/osm_mx) — preguntas, novedades y comunidad.
+* [Community (Discourse)](https://community.openstreetmap.org/) — foro global en español.
+
+Para empezar, mapea lo que conoces cerca de ti: edificios, negocios, calles, caminos. Si algo ya existe, agrégale dirección u horario. ¡Tú eres quien mejor conoce tu zona!
+
+También desde el celular: [EveryDoor](https://every-door.app/), [StreetComplete](https://streetcomplete.app/) y [CoMaps](https://www.comaps.app).
+
+Por favor, respóndeme este mensaje o únete a uno de los canales para que la comunidad te conozca.
+
+¡Disfruta el mapeo!
+
+{{ app.user.displayName }}
+OSM México
