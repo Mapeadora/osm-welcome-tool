@@ -292,6 +292,9 @@ regions:
       name: Colorado
       flag: 🇺🇸
       osmcha.id: c3c8954f-bb6d-4713-b311-e5ce9fea2244
+    mexico:
+      name: Mexico
+      flag: 🇲🇽
     guatemala:
       name: Guatemala
       flag: 🇬🇹
